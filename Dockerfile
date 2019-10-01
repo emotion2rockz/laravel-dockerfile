@@ -1,3 +1,3 @@
 FROM nginx
 
-ADD web /usr/share/nginx/html
+ADD index.php /usr/share/nginx/html
